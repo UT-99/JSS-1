@@ -1,0 +1,16 @@
+h1.textAlign{
+    text-align: center;
+
+}
+
+
+.boxes{
+    background-color: rgb(235, 230, 230);
+    border: 2px solid rgb(109, 50, 50);
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.CodeSize{
+    font-size: 20px;
+}
